@@ -2,5 +2,5 @@
 
 اجرا با دستور زیر
 ```
-https://raw.githubusercontent.com/mehrdadtopme/hiddify-xray-core-switcher/refs/heads/main/xray_core_changer.sh
+bash <(curl -Ls https://raw.githubusercontent.com/mehrdadtopme/hiddify-xray-core-switcher/refs/heads/main/xray_core_changer.sh
 ```
